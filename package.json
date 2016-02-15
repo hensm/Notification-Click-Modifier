@@ -1,0 +1,16 @@
+{
+  "title": "Notification Click Modifier",
+  "name": "notificationclickmodifier",
+  "id": "notificationclickmodifier@cssu.in",
+  "version": "0.0.1",
+  "description": "Closes a desktop notification when not left-clicked",
+  "main": "index.js",
+  "author": "Marcii <marcii@cssu.in>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
